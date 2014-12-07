@@ -1,7 +1,5 @@
 package symmetric;
 
-
-
 import java.security.Key;
 
 import javax.crypto.Cipher;
